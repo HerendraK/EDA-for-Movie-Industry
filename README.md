@@ -18,10 +18,17 @@ Exploration Questions
 In my analysis I explore and answer the following questions:
 
 What are the most profitable movies and how much should you spend?
+
 Which movie genres are most commonly produced and does quantity equate to higher net profits?
+
 What is the best time of the year to release a movie?
+
 Which actors and directors tend to add the most value?
+
 How much money should you spend to win an Oscar?
+
 What impact, if any, does runtime and movie rating have on Net Profit, Profit Margin and IMDb rating?
+
 Sticking to our analysis of Net Profit and Profit Margin, what should our Company determine to be the baseline for sustainable success?
+
 Based on the success of current competitors, which should we look to for best practices?
